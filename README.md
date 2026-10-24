@@ -15,7 +15,7 @@ Se utilizó **Provider** para el manejo de estado, por las siguientes razones:
 - Es sencillo de implementar, requiere poco código repetitivo y separa la lógica de la interfaz.
 
 ## 4. Cómo ejecutar la app
-1. Clonar el repositorio: `git clone [https://github.com/1225100336sma-ux/inprint.git]`
+1. Clonar el repositorio: `git clone [https://github.com/pamichelle/Inprint_aplicacion.git]`
 2. Entrar a la carpeta del proyecto: `cd inprint-main`
 3. Instalar dependencias: `flutter pub get`
 4. Abrir un emulador Android o conectar un dispositivo físico.
